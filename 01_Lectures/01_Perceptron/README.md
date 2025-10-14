@@ -21,6 +21,12 @@
 
 
 
+
+
+
+
+
+
 # MLP(Multi Layer Perceptron)
 
 - **여러 층의 퍼셉트론이 결합된 인공신경망** 구조
